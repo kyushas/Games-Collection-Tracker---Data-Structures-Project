@@ -1,7 +1,7 @@
 # Games-Collection-Tracker---Data-Structures-Project
 Simple videogames colleciton tracker that I made for my Data Structure &amp; Algorithms course in university using Python. 
 
-Since this was an university project I don't really plan to go back to it to make changes or anything. The main focus of it was to practice the implementation of different data structures. 
+Since this was a university project I don't really plan to go back to it to make changes or anything. The main focus of it was to practice the implementation of different data structures. 
 
 >
 > ## Features
