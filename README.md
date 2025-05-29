@@ -21,11 +21,11 @@ Since this was a university project I don't really plan to go back to it to make
 
 > ## CSV Format Example
 To load games from a file you should use a `.csv` with the following format:
->`key,title,genre,year,publisher,platform`
->`001,Hollow Knight,Metroidvania,2018,Team Cherry,Steam`
->`002,Death Stranding,Strand,2019,Kojima Productions,PlayStation 5`
->`003,Portal 2,Puzzle,2011,VALVE,PC`
->
-> License
+`key,title,genre,year,publisher,platform`
+`001,Hollow Knight,Metroidvania,2018,Team Cherry,Steam`
+`002,Death Stranding,Strand,2019,Kojima Productions,PlayStation 5`
+`003,Portal 2,Puzzle,2011,VALVE,PC`
+
+> # License
 This project is licensed for educational use. Feel free to use it as a reference for your own coursework or portfolio. 
 
