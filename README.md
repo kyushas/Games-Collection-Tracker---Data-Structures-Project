@@ -17,7 +17,7 @@ Since this was an university project I don't really plan to go back to it to mak
 - Dictionary - for fast lookups by unique key
 - List - for search results and full listing
 - Binary Search Tree - for ordering games by platform
-  **Note:** I used the website https://www.geeksforgeeks.org/binary-tree-in-python/ as a reference for the bst.py code.
+>  **Note:** I used the website https://www.geeksforgeeks.org/binary-tree-in-python/ as a reference for the bst.py code.
 
 > ## CSV Format Example
 To load games from a file you should use a `.csv` with the following format:
